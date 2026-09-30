@@ -13,7 +13,7 @@ export default function App() {
      *
      */
 
-    <div>Hallo Welt</div>
+    <div>Hallo Banane</div>
 
     /*
      *
